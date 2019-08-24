@@ -1,0 +1,880 @@
+,source,title,descriptionPolarity
+0,NPR,"Sleater-Kinney Releases A Last Album, Ending An Era For the Indie Rock Trio",0.0
+1,NPR,How The Flying Shame Movement Got Off The Ground,0.0
+2,NPR,A Look At The ISIS Presence In Afghanistan ,-0.03333333333333333
+3,NPR,When Texas Legalized Hemp It Forced Some Counties To Change How They Prosecute Pot,-0.2916666666666667
+4,NPR,Syrian Government On The Verge Of Taking Back Important Town From Rebels In Civil War,0.13333333333333333
+5,NPR,Trump Administration Faces Class Action Lawsuit Alleging Health Care Failures By ICE,-0.052727272727272734
+6,NPR,How The Trump Administration's Sanctions Are Affecting Iranians,0.2
+7,NPR,Democratic Presidential Candidate Andrew Yang On His Universal Basic Income Plan,0.0
+8,NPR,Why Sea Level Rise Varies Across The World,0.16666666666666666
+9,NPR,Secretary Of State Mike Pompeo Tries To Rally U.N. Security Council To Counter Iran,0.17857142857142858
+10,NPR,'A Good Provider' Argues Migration Can Be Salvation,0.2556818181818182
+11,NPR,"Italy's Prime Minister Giuseppe Conte Resigns, Ending His Populist Coalition",0.0
+12,NPR,Twitter And Facebook Shut Down Fake Propaganda Accounts Run By Chinese Government,-0.1951388888888889
+13,NPR,Study Shows Red Flag Laws Might Help Prevent Violence,0.03409090909090909
+14,NPR,Internationally-Maintained Radiation Monitors Go Offline Following Russian Explosion,0.0
+15,CNN,"President Trump is sending mixed messages about the economy, as he looks into possible tax cuts while also repeating his assertion that a recession is very far off",0.065
+16,CNN,Rust belt voters sharply divided on Trump's economy,0.0
+17,CNN,"US tariffs on China could cost American households $1,000 per year, JPMorgan says",0.0
+18,CNN,Cooper: A number of indicators could signal trouble ahead,0.1
+19,CNN,Jewish leaders outraged by Trump saying Jews disloyal if they vote for Democrats,0.26666666666666666
+20,CNN,Lawmaker slams Trump's remark on Jews,0.13333333333333333
+21,CNN,"Trump mocks Tlaib's tears, says she 'grandstanded' over grandmother visit",-0.4
+22,CNN,Brian Karem sues Trump White House over press pass suspension,0.0
+23,CNN,USDA shrinks buyout packages for employees who won't relocate to Kansas City,0.5
+24,CNN,Kamala Harris plummets in new CNN poll,0.04545454545454545
+25,CNN,Opinion: Biden's lead confirms 2020 as a battle for America's soul ,-0.15
+26,CNN,Trump says he beat Elton John's crowd size record. He was right,0.2681818181818182
+27,CNN,Facebook released the results of an investigation of alleged anti-conservative bias,-0.025
+28,CNN,Ronda Rousey nearly severed her finger,0.1
+29,CNN,Former Ohio judge and politician pleads guilty to killing ex-wife,-0.25
+30,CNN,Opinion: Planned Parenthood forced to make an impossible choice,0.1910714285714286
+31,CNN,Texas working to recover from ransomware attack on 22 government targets,-0.15
+32,CNN,Another massive ocean garbage patch found,0.029166666666666664
+33,CNN,Historic palace gets multimillion-dollar restoration,0.0
+34,CNN,A trail of 'bloody gold' leads to Venezuela's government,0.1
+35,CNN,Pit bulls maul and kill a 9-year-old girl,0.0
+36,CNN,Opinion: Ashley Graham's nude pregnancy photo tells an important truth,0.18
+37,CNN,A bear broke into a house and raided the fridge as terrified teens hid in the next room,-0.2041666666666667
+38,CNN,"Brands are beefing about who has the best chicken sandwich, and it's a mess ",0.4000000000000001
+39,CNN,"Man who died after falling from hotel was fleeing after flashing employee, police say",0.0
+40,CNN,He sent Steph Curry numerous emails. Then this happened ....,0.1
+41,CNN,CMA's replace host Brad Paisley,0.0
+42,CNN,Keanu Reeves and Carrie-Anne Moss will again reenter 'The Matrix',-0.03333333333333333
+43,CNN,You can stop calling it 'Bond 25.' The new Bond movie has a title,0.0
+44,CNN,'Marriage Story' offers dual sides to matrimony,-0.2
+45,CNN,'Good Boys' wins the weekend at the box office,0.7
+46,CNN,Netflix could face trouble ahead. Here's why,0.14375
+47,CNN,Remember when Liz Hurley wore 'that' dress?,0.0
+48,CNN,Rhino charges after tourists on safari,0.0
+49,CNN,Home and Away actor Ben Unwin has died aged 41,0.0
+50,CNN,The 'Boy Meets World' cast reunion shows just how much TV can inspire a generation,0.2
+51,CNN,Instagram hooked us on ❤️. What happens when they're gone? ,0.2333333333333333
+52,CNN,Rape victim at center of controversial abortion trial acquitted,-0.033333333333333326
+53,CNN,Italian Prime Minister says he must resign,-0.3
+54,CNN,Twitter cracks down on state media,
+55,CNN,Phoenix police must now document each time they point their gun at someone,-0.016666666666666666
+56,CNN,A tiny kinkajou sneaked into a Florida home and attacked a man,0.0
+57,Vox,"The Matrix 4 is happening. Keanu Reeves, Carrie Ann Moss, and Lana Wachowski will all return.",0.17239392496392494
+58,Vox,More than half of House Democrats now support opening an impeachment inquiry against Trump,0.0614795918367347
+59,Vox,The New York Times 1619 Project is reshaping the conversation on slavery. Conservatives hate it.,0.0684396858946232
+60,Vox,"Report: Spider-Man will leave MCU, as Marvel and Sony end their partnership",0.08700113883937415
+61,Vox,"Trump’s potential recession playbook: conspiracies, lies, and scapegoats",0.1306575034280258
+62,Vox,Poll: voters who reject racism are more energized for 2020 than they were in 2016,0.04528148148148148
+63,Vox,Frats are throwing parties with Tinder and Bumble. This isn’t exactly new.,0.02295984739166557
+64,Vox,"The artistry of the late Richard Williams, from Roger Rabbit to the Pink Panther",0.12424114975526264
+65,Vox,Kamala Harris and Bernie Sanders’s fight on health care is really about the wealthy,0.03881731273776727
+66,Vox,Wildfires are burning around the world. The most alarming is in the Amazon rainforest.,0.060787119466554955
+67,Wall Street Journal,"China Resists Charge by Twitter, Facebook of Disinformation Effort",0.0
+68,Wall Street Journal,"Italian Government Collapses, Setting Up a Power Struggle",0.18727272727272729
+69,Wall Street Journal,Trump Mulls Tapping Pompeo's Deputy as New Russian Envoy,0.0
+70,Wall Street Journal,Russia Criticizes Arms-Control Group Over Reporting of Blast,0.1619047619047619
+71,Wall Street Journal,Syrian Government Captures Strategic Town in Last Opposition Stronghold,0.13333333333333333
+72,Wall Street Journal,Pyongyang Complains Loudly About Quieter U.S.-South Korean Exercises,-0.1277777777777778
+73,Wall Street Journal,Bayer to Sell Animal-Health Unit to Elanco for $7.6 Billion,0.06666666666666667
+74,Wall Street Journal,Gun Sellers Are Sneaking Onto Facebook's Secondhand Marketplace,0.0
+75,Wall Street Journal,Historic Rise of College-Educated Women in Labor Force Changes Workplace,0.125
+76,Wall Street Journal,Home Depot Cuts Sales Forecast,0.0
+77,Wall Street Journal,Trump Weighs Options to Spur the Economy,-0.051851851851851864
+78,Wall Street Journal,"Fed's Daly: July Rate Cut Was Right Move, Recession Not Imminent",0.2857142857142857
+79,Wall Street Journal,Cereal Makers Try Again to Jump-Start Stale Sales,0.0
+80,Wall Street Journal,Alibaba Mines for Oscar Gold at China's Box Office,-0.07767857142857142
+81,Wall Street Journal,"Qualcomm, LG Reach New Patent-Licensing Deal",0.13636363636363635
+82,Wall Street Journal,"Hess Has Been 2019's Top Oil and Gas Stock, but Shale Isn't the Reason",-0.046875
+83,Wall Street Journal,Department-Store Woes Catch Up to Kohl's,0.0
+84,Wall Street Journal,Californians in Fire-Prone Areas Find It Harder to Buy Insurance,0.06818181818181818
+85,Drudge Report,WARREN CROWD SWELLS IN MN...,0.125
+86,Drudge Report,"12,000 people, largest of tour...",0.08333333333333333
+87,Drudge Report,"IOWA CORN POLL: BIDEN, PETE",0.16666666666666666
+88,Drudge Report,Area 51 events prompt emergency crowd planning...,0.25
+89,Drudge Report,Woman Killed In Double Stabbing During Fight That Started Over Social Media...,-0.08611111111111112
+90,Drudge Report,Trump says Jews who vote Democrat show 'great disloyalty'...,0.35000000000000003
+91,Drudge Report,CUT RATES NOW!,0.03888888888888888
+92,Drudge Report,President Seeks to Allay Farm-State Uproar...,0.075
+93,Drudge Report,'Far from recession'...,0.05833333333333333
+94,Drudge Report,U.S. STEEL TO LAY OFF HUNDREDS IN MICHIGAN...,0.05833333333333333
+95,Drudge Report,Wide implications as Germany teeters toward recession...,0.075
+96,Drudge Report,Airlines expect record crowds over Labor Day...,0.25
+97,Drudge Report,DISNEY Whistleblower Claims Revenue Inflated For Years...,0.25
+98,Drudge Report,"Mom of 3 Arrested, Jailed for Putting Recycling in Wrong Color Bag?",-0.125
+99,Drudge Report,San Fran homeless stats soar...,0.0625
+100,Drudge Report,'I'm moving to Austin'...,0.041666666666666664
+101,Drudge Report,"Syringes, feces, tent camps in Sacramento...",0.0625
+102,Drudge Report,"LA's pricey fix: $700,000 condos...",0.0625
+103,Drudge Report,"Italian PM Resigns, Declaring End of Govt...",0.041666666666666664
+104,Drudge Report,Stage Set For Salvini?,0.041666666666666664
+105,Drudge Report,US Navy 'ready' for Venezuela mission: top commander...,0.31666666666666665
+106,Drudge Report,Calm before storm? Quietest hurricane season since 1982...,0.1277777777777778
+107,Drudge Report,"50 years later, Camille remains one of costliest storms ever...",0.020833333333333332
+108,Drudge Report,Scientists finally know how big earthquakes start: With many smaller ones...,0.125
+109,Drudge Report,MAG: A 'WOKE' ICON FALLS FROM GRACE...,0.25
+110,Drudge Report,"Detained immigrants sue over conditions, medical care...",-0.05803571428571429
+111,Drudge Report,Migrants getting sick at border...,-0.05803571428571429
+112,Drudge Report,Teen arrested for threatening 'slaughter' at abortion clinic...,0.125
+113,Drudge Report,Chinese company to launch mass sale of cloned cats...,0.0
+114,Drudge Report,"Israeli, US special forces practice ship takeovers amid high tensions in Gulf...",0.12928571428571428
+115,Drudge Report,Bret Baier Fires Back at President: FOXNEWS Has Not 'Changed'...,0.14857142857142858
+116,Drudge Report,"WIRE: Yes, Trump Can Win Re-Election. But He's Right to Worry...",0.2904761904761905
+117,Drudge Report,"Harry Reid rips Dems over 'Medicare-for-all,' border policies...",0.1619047619047619
+118,Drudge Report,'Of course' it will hurt us in 2020...,0.1619047619047619
+119,Drudge Report,Dems Fundraising in Mexico...,0.1619047619047619
+120,Drudge Report,Obamas' first film charts life in US factory under China bosses...,0.03125
+121,Drudge Report,First Big Anti-Trump Statement...,0.05
+122,Drudge Report,"ISIS, Al-Qaeda Hunker Down to Rebuild...",-0.025925925925925932
+123,Drudge Report,Pompeo confirms regaining strength...,-0.025925925925925932
+124,Drudge Report,Ex-Veterans Affairs pathologist charged in deaths of 3 patients...,0.0
+125,Drudge Report,Ride Sharing Adds to the Crush of Traffic at Airports...,0.0
+126,Drudge Report,Cities Rethink Data Relationship With Residents...,0.0
+127,Drudge Report,Bitcoin used to fund terrorism...,0.0
+128,Drudge Report,"Cannabis restaurants coming to California, with 'budtenders' and 'flower' service...",0.0
+129,Drudge Report,Epstein signed will just 2 days before death...,0.0
+130,Drudge Report,Early accuser: Police could have stopped him in 1997!,0.041666666666666664
+131,Drudge Report,UPDATE: Gal pal staged IN-N-OUT photo...,0.0
+132,Drudge Report,HOW 'BACHELOR' TRICKED SHOW PRODUCERS...,0.0
+133,Drudge Report,"Machines on display at World Robot Conference fly, swim, do brain surgery...",0.26666666666666666
+134,Drudge Report,MERCEDES admits spying on drivers with tracking devices...,0.0
+135,Drudge Report,LINCOLN Phone-As-Key to Eliminate Keys...,0.0
+136,Drudge Report,TRAFFIC HELL: Most of 405 Shut Down After Big Rig Crash...,0.08611111111111111
+137,Drudge Report,World's oldest living pet Tommy the tortoise celebrates 121st birthday...,0.0
+138,Drudge Report,Man arrested for botching castration on victim he met on dark web...,-0.075
+139,Drudge Report,Biden's brain surgeon defends his brain...,0.0
+140,Drudge Report,THE CONWAY SHOW: George Shreds White House Staff: They 'Work For a Rapist'...,0.0
+141,Drudge Report,Ransomware attack that crippled 23 Texas towns has cost $12M...,0.025
+142,Drudge Report,Investigators still don't know who is responsible...,0.03333333333333333
+143,Drudge Report,Japan's Digital Pop Stars Blur Line Between Virtual and Reality...,0.0
+144,Drudge Report,World famous porn star found living in squalor in tunnels under Vegas...,0.25
+145,Drudge Report,Ex-MLB players arrested in connection with Caribbean drug ring...,-0.024999999999999998
+146,Drudge Report,The dark side of tennis...,-0.024999999999999998
+147,Drudge Report,Signals from deep space triple...,0.0
+148,Drudge Report,'STARDUST': First Look At Johnny Flynn As David Bowie In Music Biopic...,0.125
+149,Drudge Report,Stallone Drops Intense 'RAMBO' Trailer...,0.1
+150,Drudge Report,California to build largest wildlife crossing in world...,0.06249999999999999
+151,Drudge Report,Game keeper mauled to death by 3 lions inside their enclosure...,0.008333333333333326
+152,Drudge Report,Birds risk lives for good nap...,0.06249999999999999
+153,Drudge Report,Poachers caught butchering green sea turtles...,0.06249999999999999
+154,Drudge Report,Camping canceled at PHISH concerts. Blame plague-infected prairie dogs...,-0.03333333333333333
+155,Drudge Report,Dog dies 15 mins after owner loses battle with cancer...,-0.03333333333333333
+156,Drudge Report,APPLE TO SPEND $6 BILLION ON NEW STREAMING CONTENT...,0.06818181818181818
+157,Drudge Report,MAG: How 'Woodstock 50' turned into a slow-moving train wreck...,0.0
+158,Drudge Report,"He was paid to keep kids out of gangs. Now, he's charged in MS-13 killings...",0.0
+159,Drudge Report,Gamers risk health in bid to be eSports millionaires...,0.0
+160,Drudge Report,Developers Eye Portugal's Comporta Coast as New Ibiza...,0.06818181818181818
+161,New York Times,"Trump Says He’s Exploring ‘Various Tax Reductions,’ and the Economic Data He Loves Shows Why",0.5
+162,New York Times,Banks Want Efficiency. Critics Warn of Backsliding.,0.0
+163,New York Times,How Shareholder Democracy Failed the People,0.35
+164,New York Times,Trump’s Rollback of Auto Pollution Rules Shows Signs of Disarray,0.25
+165,New York Times,"After Lobbying by Gun Rights Advocates, Trump Sounds a Familiar Retreat",0.2375
+166,New York Times,What ‘Victory’ Looks Like: A Journey Through Shattered Syria,-0.09040404040404042
+167,New York Times,"Syrian Forces Move Into Strategic Town, Tightening Grip on Rebels",0.2
+168,New York Times,Why the 2020 Criminal Justice Debate Is Completely Different,-0.1
+169,New York Times,"Touch Football, Sold as Safer, Now Requires a Helmet",-0.08666666666666666
+170,New York Times,"Recession, Italy, Sharks: Your Tuesday Evening Briefing",0.0
+171,New York Times,Senator Kirsten Gillibrand on Al Franken,0.0
+172,New York Times,Jia Tolentino on Life With the Internet,0.0
+173,New York Times,A Secret Opioid Memo That Could Have Slowed an Epidemic,0.13636363636363635
+174,New York Times,The World Has a Germany Problem,0.0
+175,New York Times,Almost Famous: The King of Fish and Chips,-0.44999999999999996
+176,New York Times,Want to Win in 2020? Fight Fair,0.0
+177,New York Times,How an E-Bike Changed My Life,0.016666666666666663
+178,New York Times,Save Capitalism by Paying People More,0.25
+179,New York Times,Toxic Nostalgia Breeds Derangement,0.0
+180,New York Times,"‘If You’re Like Me, You Can’t Sit By. This Is America.’",0.5
+181,New York Times,Could Restorative Justice Fix the Internet?,0.1
+182,New York Times,"No, Facebook Is Not Secretly Listening to You",0.0
+183,New York Times,Daniel Pantaleo Was Fired. We’re Still Afraid for Our Lives.,0.05833333333333334
+184,New York Times,What Alexandria Ocasio-Cortez and Marco Rubio Agree On,0.25
+185,New York Times,Is Spam Trying to Tell Us Something?,0.13636363636363635
+186,New York Times,"Elk? Hare? Camel? All That and More in Sandwiches, at Foxface",-0.041666666666666664
+187,New York Times,Recalling a Time When Books Could Give You Indigestion,-0.11666666666666665
+188,New York Times,Philadelphia’s Police Commissioner Resigns as Officers Accuse Colleagues of Harassment,0.16666666666666666
+189,New York Times,Tucker Carlson’s Fox News Show Loses More Advertisers,0.21428571428571427
+190,New York Times,Hong Kong Police Officers Arrested Over Beating of Man in Hospital,-0.35
+191,New York Times,Officers Went to Investigate Child Sexual Abuse. They Found Human Remains.,0.0
+192,New York Times,"Ransomware Attack Hits 22 Texas Towns, Authorities Say",0.08333333333333333
+193,New York Times,Florida’s Panthers Hit With Mysterious Crippling Disorder,0.24999999999999997
+194,New York Times,Hate Those Floating Digital Billboards? New York Just Banned Them,0.0
+195,New York Times,China’s Soft-Power Failure: Condemning Hong Kong’s Protests,0.06249999999999999
+196,New York Times,Who’s to Blame When Algorithms Discriminate?,-0.1
+197,New York Times,Could Architecture Help You Live Forever?,-0.1375
+198,New York Times,"‘I’m Sick of Seeing My Face,’ Says the Internet’s Kombucha Connoisseur",0.0
+199,New York Times,Tiny Love Stories: ‘How Come You Rarely Told Me You Loved Me?’,0.15
+200,New York Times,What to Read About ‘Once Upon a Time … in Hollywood’,0.2
+201,New York Times,"Shelby Lyman, 82, Dies; Unlikely Star of a Fischer-Spassky Broadcast",0.12159090909090908
+202,New York Times,"The Keto Diet Is Popular, but Is It Good for You?",0.0
+203,New York Times,"Spraying Antibiotics to Fight Citrus Scourge Doesn’t Help, Study Finds",-0.3333333333333333
+204,New York Times,Older People Need Rides. Why Aren’t They Using Uber and Lyft?,0.5
+205,New York Times,She Studies Sea Snakes by the Seafloor,0.024999999999999994
+206,New York Times,It’s Not Always Excellent to Be Jamie Oliver,-0.1638888888888889
+207,New York Times,Neil Young’s Lonely Quest to Save Music,0.14285714285714285
+208,New York Times,Welcome to McDonald’s. Would You Like a Podcast With Those Fries?,0.5
+209,BBC,Brexit: 'No prospect' of a deal unless backstop is dropped,-0.041666666666666664
+210,BBC,Italy government crisis: PM Conte quits amid coalition row,0.0
+211,BBC,Vocational 'T-level' worth three top A-levels,0.4
+212,BBC,"Amazon fires: Brazilian rainforest burning at record rate, space agency warns",0.6
+213,BBC,Gone with the Wind: Dozens of mattresses blown away in outdoor cinema mishap,0.0
+214,BBC,Sleepwalking man cleared of sexually assaulting woman,0.2
+215,BBC,Andrew Harper death: Murder accused appears in court,0.0
+216,BBC,George Pell: Cardinal to learn outcome of abuse conviction appeal,0.5
+217,BBC,Russian couple face losing son after attending opposition protest,-0.4
+218,BBC,"Fishermen rescued from flooded river in Jammu, northern India",-0.2
+219,BBC,Frances McDormand Oscar theft case against party-goer dropped,0.0
+220,BBC,The Papers: Ties 'slashed' as UK walks away from EU,0.5
+221,BBC,Wildcats litter: The new arrivals giving hope for the species' survival,0.1
+222,BBC,Google sign language AI turns hand gestures into speech,0.0
+223,BBC,'Why me? I had ovarian cancer at 14',-0.17777777777777773
+224,BBC,Why 500 million bees have died in Brazil in three months,-0.08333333333333333
+225,BBC,Scottish castle goes up for sale for over £8m in East Lothian,0.0
+226,BBC,Foo Fighters' youngest fan steals the show,0.0
+227,BBC,Great British Bake Off: 2019 contestants revealed,0.16818181818181818
+228,BBC,'Ugly but adorable' one-eyed dog needs new home,-0.24999999999999997
+229,BBC,Billie Eilish: My baggy clothes shouldn't slut-shame others,0.0
+230,BBC,Old Town Road and Lil Nas X: How America changed in 19 weeks,0.0
+231,BBC,Brexit: Boris Johnson's letter to the EU,0.0
+232,BBC,The Morning Show: Why are there so many TV shows about TV shows?,0.04659090909090907
+233,BBC,Prince Harry and private jets: What are the emissions?,0.0
+234,BBC,Players should 'boycott' social media to send 'powerful message' - Neville,0.16666666666666666
+235,BBC,Key Australia batsman Smith ruled out of third Ashes Test,0.0
+236,BBC,Wednesday beat Luton to go top of Championship,0.0
+237,BBC,Women's World Cup-winning coach Robinson leaves England role,-0.02777777777777779
+238,BBC,Ashley Williams: Wales captain left out of squad for Euro 2020 qualifier,0.0
+239,BBC,Squirrel cause delay at Chicago White Sox v Minnesota Twins game,0.03125
+240,Breitbart,Donald Trump: Many in Establishment Media 'Would Love to See a Recession',0.1707142857142857
+241,Breitbart,President Trump: We Won't Sacrifice Gun Rights to 'Slippery Slope',0.0
+242,Breitbart,Carney: A Payroll Tax Cut Would Give Americans the Raise They Deserve,0.09523809523809525
+243,Breitbart,Justice Department Tells Supreme Court: DACA Amnesty Is Illegal,-0.13333333333333333
+244,Breitbart,California's Homeless Crisis Pushes Business Owner Out,0.0
+245,Breitbart,Elizabeth Warren Deletes DNA Test Results from Campaign Website,0.0
+246,Breitbart,"Fact Check: Elizabeth Warren Crowd Was 6,000 at Most, not 12,000",0.0
+247,Breitbart,"James Comey and His Wife Donated Nearly $20,000 to Democrats in 2019",0.15
+248,Breitbart,Media Bails on Bernie Sanders 'Field of Dreams' Game Due to Fundraising Email,-0.4
+249,Breitbart,"San Francisco Homelessness Crisis Escalates, Politicians Pass the Buck",0.5
+250,Breitbart,Trump Ready to Leave Afghanistan: At a Certain Point You Have to Say 'Enough',0.054761904761904755
+251,Breitbart,Playboy Reporter Brian Karem Sues White House over Suspended Press Pass,0.0
+252,Breitbart,Hong Kong Exec Carrie Lam Promises ‘Platform for Dialogue’ with Protesters,-0.125
+253,Breitbart,Mom Hosts At-Home Job Fair to Teach Kids the Value of Hard Work,0.04895833333333334
+254,Breitbart,Report: U.S. in Talks with Venezuelan 'Drug Kingpin' Diosdado Cabello About Ousting Maduro,-0.05
+255,Breitbart,Kyl Report: Facebook Faces Workplace Viewpoint Diversity Challenges,0.0
+256,Breitbart,Bokhari: The Koch-Soros Alliance to Censor the Internet,-0.4
+257,Breitbart,Facebook Tool Shows Users Which Websites Have Tracked Them,0.016666666666666666
+258,Breitbart,Josh Hawley: Facebook Political Bias 'Audit' a 'Smokescreen Disguised as a Solution',0.0625
+259,Breitbart,Facebook Releases Interim Findings of 'Political Bias Review',0.0
+260,Breitbart,Bernie Sanders Busts Kamala Harris for Bashing His Medicare for All Plan in Front of Big Donors,0.0
+261,Breitbart,George Conway: Trump White House Staff 'Work for a Rapist',0.0
+262,Breitbart,Dianne Feinstein Falsely Claims 'Assault Weapons' Ban Lowered Crime,0.0
+263,Breitbart,Delaney: Other Dem Candidates Running on 'Impossible Promises and Fairy-Tale Economics',0.05555555555555556
+264,Breitbart,CNN Poll: Kamala Harris Drops 12 Percent After Second Debates,0.0
+265,Breitbart,Scarborough on Biden's First Political Ad: 'Reaganesque Vision of Where This Country Can Be',0.0625
+266,Breitbart,Nolte: Politico Wants Us to Deny Evidence of Joe Biden's Cognitive Decline,0.045
+267,Breitbart,Video: Ocasio-Cortez Mocks Middle America in Effort to Delegitimize Electoral College,0.0
+268,Breitbart,Google Nest Security Cameras Can Be Hijacked Due to Vulnerabilities,0.0
+269,Breitbart,Professor Robert Epstein: Hillary Clinton Is Wrong About Google,-0.3166666666666667
+270,Breitbart,"FTC Chairman: Facebook's Integration with Instagram, WhatsApp Could Complicate Antitrust Measures",0.008333333333333333
+271,Breitbart,Facebook Hiring Corporate Media Veterans to Manually Curate 'News Tab',0.0
+272,Breitbart,Greenland New Deal: Trump Promises No High-rise Tower in the Arctic,0.0
+273,Breitbart,"Hogan Gidley: Reps. Omar, Tlaib 'Are Clearly Against the Existence of Israel'",0.05000000000000001
+274,Breitbart,"Italian PM Resigns, Attacks Populist Salvini As Government Collapses",0.0
+275,Breitbart,British Consulate Official Detained by China on Hong Kong Border,-0.09444444444444444
+276,Breitbart,Reports: Epstein Partner Ghislaine Maxwell's In-N-Out Picture Is Photoshopped,0.049999999999999996
+277,Breitbart,"McCain's Family, McCain Institute to Start #ActsofCivility Campaign",-0.005555555555555554
+278,Breitbart,President Trump Shifts Away from Background Check Push,0.0
+279,Breitbart,"Exclusive--Bernie Kerik: NYC Cops Demoralized, 'Afraid' to Do Their Jobs After Firing of Officer in Eric Garner Case",0.0
+280,Breitbart,Nurses: Florida Clinic Allege They Would Be Fired for Speaking Spanish on the Job,0.0
+281,Breitbart,200 Migrants Apprehended After Crossing New Mexico Border,0.06363636363636364
+282,Breitbart,Border Patrol Apprehends 15 Migrants with Fake IDs in Louisiana,0.03409090909090909
+283,Breitbart,New York Times Hides $$$ to Smear Donald Trump's Policies as 'Anti-Immigrant',0.1340909090909091
+284,Breitbart,"Gov't Delivers 100,000 Cheap Visa-Workers to Disney, Hilton, Tourist Industry, for Summer Work",0.075
+285,Breitbart,Sanctuary City New York Likely Freed 3K Criminal Illegal Aliens in Last Year,-0.09090909090909091
+286,Breitbart,Report: DNC Chair Tom Perez to Fundraise in Mexico,0.0
+287,Breitbart,WATCH: Migrants Fail to Scale New Border Wall Section,0.08409090909090909
+288,Breitbart,Flashback—Obama: ‘How Many Times Is Biden Gonna Say Something Stupid?’,0.0
+289,Daily Mail,Cardinal George Pell to remain behind bars for sexually abusing two choirboys,-0.05714285714285716
+290,Daily Mail,Stars salve their eco-conscience by sending money to 'carbon offset' firms - is it a load of hot air,0.3181818181818182
+291,Daily Mail,Twitter meltdown over John Barnes interview 'in bed',-0.5
+292,Daily Mail,"Phoebe Waller-Bridge drives West End wild in farewell show, writes JAN MOIR",0.015476190476190477
+293,Daily Mail,Great White sharks are terrorising the US' eastern seaboard,0.03333333333333333
+294,Daily Mail,"Teenage father, 19, scoops £10,000-a-month for a whole YEAR on first go at Lotto draw",-0.2
+295,Daily Mail,"Former Kew Gardens gatekeeper, 74, threatened with jail after taking neighbour's shears",-0.025
+296,Daily Mail,"New study suggests we're happier after our children leave home, but not everyone agrees ",0.06249999999999999
+297,Daily Mail,Crazy cat lady stereotype is false according to study by University of California,0.14444444444444446
+298,Daily Mail,Scientists develop a blood test which can predict whether you will die in the next 10 years,0.0
+299,Daily Mail,Fantasist 'Nick' bids to overturn conviction for perverting justice with his paedophile ring lies ,0.04999999999999999
+300,Daily Mail,Facebook releases the results of Republican-led investigation into its 'anti-conservative bias',0.0
+301,Daily Mail,"Ryanair pilots threaten Bank Holiday strikes which could hit 250,000 passengers",-0.175
+302,Daily Mail,Police evacuate a block of flats after man  threatens to blow up the building,-0.0125
+303,Daily Mail,Nazanin Zaghari-Ratcliffe's visits with daughter are cut to just once a month,-0.011111111111111127
+304,Daily Mail,Donald Trump says 'Jewish people' voting Democrat are showing 'great DISLOYALTY',0.13636363636363635
+305,Daily Mail,Thousands of homeless children are living in shipping containers,-0.11060606060606061
+306,Daily Mail,Labour Brexit divide widens as Diane Abbott tells Today programme she would support Remain over deal,0.0
+307,Daily Mail,Bill Gates REFUSES to reveal why he flew on Lolita Express with Jeffrey Epstein after prison release,0.0
+308,Daily Mail,"Trump says Russia should rejoin G7, claims Putin was booted because he 'outsmarted' Obama",0.4666666666666666
+309,Daily Mail,Leading Chinese official warns British MPs to 'tone down' statements about protests in Hong Kong,0.0
+310,Daily Mail,Living in areas with high pollution can DOUBLE your risk of developing most common form of blindness,0.05
+311,Daily Mail,Boxing news: Anthony Joshua's sponsors back controversial Saudi Arabia fight,0.55
+312,Daily Mail,Having high blood pressure in your 30s damages your brain in old age ,0.08533333333333333
+313,Daily Mail,SEBASTIAN SHAKESPEARE: Kate Moss and Joan Collins help scandal-hit Mario Testino stage his comeback ,0.3333333333333333
+314,Daily Mail,David Attenborough blames EU's 'irritating' rules for Brexit vote,-0.125
+315,Daily Mail,Teens accused of shooting Lucas Fowler and Chynna Deese left video message,0.16666666666666666
+316,Daily Mail,Woman at Jeffrey Epstein's lair 'is former Australian PM Paul Keating's daughter',-0.1
+317,Daily Mail,Was my great-grandfather hanged on Churchill's orders for a murder he didn't commit?,0.0
+318,Daily Mail,Boris Johnson's partner Carrie Symonds is refused US visitors' visa 'over 2018 trip to Somaliland',-0.06666666666666667
+319,Daily Mail,Jeffrey Epstein accuser says she was forced into a sham lesbian marriage with one of his recruiters,-0.053571428571428575
+320,Daily Mail,Jeffrey Epstein's multimillionaire brother is seen heading to the NYC subway,0.0
+321,Daily Mail,Inside PewDiePie and Marzia Bisognin's 'intimate' wedding ceremony in Kew Gardens,0.03666666666666667
+322,Daily Mail,Boris promises to 'go at it with a lot of oomph' in Brexit talks,0.0
+323,Daily Mail,Several vulnerabilities in Google's indoor Nest cam allowed for 'complete takeover' and data leaks,0.31666666666666665
+324,Daily Mail,James Bond 25: Film title is REVEALED to be No Time To Die,0.13636363636363635
+325,Daily Mail,"Florida man, 74, castrated another man he met on an online fetish site",-0.043750000000000004
+326,Daily Mail,PM vows to break off nearly ALL contact with Brussels to focus on taking the UK out of the EU,0.2
+327,Daily Mail,Tory Chairman James Cleverly involved in M11 motorway smash,-0.04375000000000001
+328,Daily Mail,Strictly Come Dancing class of 2019 meet the professional dancers for the first time,0.175
+329,Daily Mail,The UK has 'the right person in charge': Donald Trump praises Boris Johnson as 'far superior',0.14213564213564212
+330,Daily Mail,"British boy, 13, dies after plunging from the sixth floor of an apartment block in the Costa Del Sol",0.09523809523809523
+331,Daily Mail,Jewelry store owner fights off four would-be thieves who attacked him with a SLEDGEHAMMER,0.0
+332,Daily Mail,Game keeper is killed by three lions he owned in South Africa ,-0.4
+333,Daily Mail,How much SHOULD you tip? Etiquette expert William Hanson has some advice,0.17954545454545456
+334,Daily Mail,Man is cleared of sexual assault because he was sleepwalking at the time ,0.125
+335,Daily Mail,Friends star Courteney Cox inadvertently kick starts Instagram trend of reverse pool jump,0.14285714285714285
+336,Daily Mail,New biography reveals how Johnny Cash went from pill-popping defiant outlaw to ordained minister,0.06818181818181818
+337,Daily Mail,Mother-in-law buys new WEDDING BAND for her son,0.0
+338,Daily Mail,Mysterious ultra-hot gas spewing from black holes may explain mysteries of galactic phenomenon,0.0888888888888889
+339,Daily Mail,Kanye West's dome prototype homes will be torn down if he doesn't get building permit,-0.006397306397306411
+340,Daily Mail,"Online gambling addict stole £32,000 from disabled woman and left her with 36p in her  account",-0.025
+341,Daily Mail,Nick Knowles EXCLUSIVE: Mother of star's new girlfriend reveals shock over age gap,0.19999999999999998
+342,Daily Mail,Travellers invade stockbroker belt,0.08989898989898988
+343,Daily Mail,Baby monitor catches toddler brothers teaming up to break out of their cribs,0.0
+344,Daily Mail,Misleading BBC graphic that said 'pro-Brexit' parties lost  was 'lapse of editorial standars',-0.16666666666666666
+345,Daily Mail,Claims of discrimination against flight crew causing all customers to exit and board a later flight,-0.4
+346,Daily Mail,Parents told their baby wouldn't live to watch them get married wed after tot makes miracle recovery,0.0625
+347,Daily Mail,Great Yarmouth's Venetian Waterways reopen after £2.7m restoration to its 1920s prime ,0.0
+348,Daily Mail,EU plans to fit all new cars with location-tracking devices or black boxes by 2022 amid privacy row,0.1
+349,Daily Mail,Teenager reveals the moment she was diagnosed with ovarian cancer at 14,0.0
+350,Daily Mail,Motorist charged after a car smashed into tents on a Welsh campsite,0.05
+351,Daily Mail,French author gives a voice to Lolita in new novel rewriting Nabokov's controversial best-seller  ,0.21212121212121213
+352,Daily Mail,Village pub owners in manure row see the funny side by offering it out,-0.19999999999999998
+353,Daily Mail,The best guilt-free electric SUVs you can buy today,0.12878787878787878
+354,Daily Mail,Tense moment a truck swerves into oncoming cars at a Yorkshire junction,0.05
+355,Daily Mail,"Which one is harder, GCSEs or O-Levels? Can you answer these maths questions?",-0.05
+356,Daily Mail,"Chinese military could overrun US forces in Asia within hours, report says",-0.05
+357,Daily Mail,"Father pens second children's book starring his terminally ill son, 5, as a 'pollution superhero'",0.0
+358,Daily Mail,Mother stabs her two-year-old son to death after he pleaded with her to stop partying,-0.6
+359,Daily Mail,British tourist viciously beaten by 'con artists' after he warned fellow holidaymakers of 'scam',-0.041666666666666664
+360,Daily Mail,Murder trial set for Ohio cheerleader charged with bashing in newborn baby's skull and burying her,-0.1875
+361,Daily Mail,PewDiePie wedding: YouTuber marries social media star Marzia Bisognin,0.25
+362,Daily Mail,Shocking X-ray of a zombie knife deliberately stabbed into a victim's BUTTOCKS,-0.5
+363,Daily Mail,Lifestyle influencer SLAMMED for 'glamorizing' photos of her motorcycle crash,0.07142857142857142
+364,Daily Mail,Horrifying moment seagull pecks a pigeon to death as it devours the bird ,-0.259375
+365,Daily Mail,Naked woman sparks outrage after twerking on a Ferrari in Ibiza,0.0
+366,Daily Mail,The RAF pilot kept safe from the Nazis by brave French Family,-0.15555555555555559
+367,Daily Mail,'Atomic bomb' cloud looms over Lake Balaton in Hungary,0.3
+368,Daily Mail,Sweden's Crown Princess Victoria shares a photo of daughter Estelle on her first day back at school,0.2143939393939394
+369,Daily Mail,"Boy, 13, WAS found hanged after finding out the girl he had 'crush' on started dating another boy",-0.15555555555555559
+370,Daily Mail,Thug shoots man in busy London street then flees as victim lies bloodied in road,-0.1152777777777778
+371,Daily Mail,Baby dies after mother's breast milk is thought to contain traces of Tramadol,0.0
+372,Daily Mail,"Footballer, 24, is branded a 'danger to women' over assault",-0.4
+373,Daily Mail,Muslim teenager is kicked to the ground and has her hijab ripped off as she is pelted with eggs,-0.275
+374,Daily Mail,Piers Morgan digs at Prince Harry and Meghan Markle over private jets,0.19999999999999998
+375,Daily Mail,Princess Beatrice 'will marry Edoardo Mapelli Mozzi as early as next spring',0.0625
+376,Daily Mail,"Lorraine Kelly, 59, showcases her incredible bikini body in unfiltered Instagram snap",0.45
+377,Daily Mail,Two-year-old girl falls from hotel window,0.0
+378,Daily Mail,New GBBO contestant exchanged flirty messages with Paul Hollywood before she won place on the show ,0.375
+379,Daily Mail,Former boyband member who toured with Westlife has shamrock-shaped growth squeezed out of his arm,-0.3499999999999999
+380,Daily Mail,Words like 'aromatic' and 'crispy' make us hungry while 'tangy' and 'fragrant' are a turn-off,0.5
+381,Daily Mail,Animal being stroked in viral clip is confirmed as a raven and not a rabbit,0.0
+382,Daily Mail,UK 'extremely concerned' after Hong Kong consular worker goes missing,-0.05
+383,Daily Mail,Mysterious Sony patent for an unnamed 'electronic device' could be the next major gaming console ,0.15
+384,Daily Mail,"Japan's Prince Hisahito, 12, is taught archery during visit to Bhutan with his parents",0.15
+385,Daily Mail,Russia tells nuclear testing monitor that radiation explosion is 'none of its business',-0.012499999999999997
+386,Daily Mail,Man faces two years in jail 'for tweeting that Nora Quoirin had been raped by tribesmen,-0.025
+387,Daily Mail,Five scientists killed in Russian 'nuclear' blast were thrown into air from a sea pontoon,0.21212121212121213
+388,Daily Mail,"Mother, 22, was diagnosed with deadly pressure building in her brain after a trip to Specsavers",0.14285714285714285
+389,Daily Mail,Chinese woman is reunited with her long-lost parents exactly 30 years after being abducted,0.3
+390,Daily Mail,Apple plans to launch streaming service 'in the next two months' ,0.225
+391,Daily Mail,Carbon off-setting scheme supported by Elton John will have no 'meaningful' effect,0.0
+392,Daily Mail,Boxing news: Fans fear for Ricky Hatton's health after he is filmed stumbling in Tenerife bar,0.0
+393,Daily Mail,Shopper left MORTIFIED after she went shopping with melted almond chocolate on bum ,0.20000000000000004
+394,Daily Mail,"Fruitarians say they felt 'bloated, ugly and anxious' before ditching dairy, meat and veg",0.5
+395,Daily Mail,Home and Away actor Ben Unwin dies at age 41,0.5
+396,Daily Mail,Instagram model 'was thrown off a balcony in attempted murder',0.0
+397,Daily Mail,Farmer greets animals by name every morning as they steam out of his barn ,0.2833333333333333
+398,Daily Mail,Cancer patient and loyal French Bulldog die 15 minutes apart,0.35
+399,Daily Mail,Fords are most stolen car brand as police chief calls for motor industry to do more to tackle crime,0.3
+400,Daily Mail,Learner driver left too scared to move after almost being hit by car fleeing police ,0.21666666666666667
+401,Daily Mail,"Heartbroken widow, 27, is raising money to start a family with her husband's sperm",0.0
+402,Fox,"US Navy 'ready' for whatever 'needs to be done' in Venezuela, Naval commander says",0.15
+403,Fox,"Warner Bros. announces 'Matrix 4' starring Keanu Reeves, Carrie-Anne Moss",0.1
+404,Fox,Death Valley could hit 120 degrees as extreme heat smothers US,0.4000000000000001
+405,Fox,Florida man arrested after allegedly performing botched castration on man,-0.1
+406,Fox,"Philadelphia police commissioner resigns amid accusations of sexual harassment, discrimination among 'rank and file,' mayor says",0.5
+407,Fox,Gutfeld on Joe Biden’s new ad and his wife’s endorsement,-0.6999999999999998
+408,Fox,"Playboy's Brian Karem files lawsuit against Trump, Grisham for suspending White House pass",0.0
+409,Fox,"Gutfeld: For the media, hopes for a recession are like 'Beetlejuice'",0.0
+410,Fox,Paul Batura: Radio’s magic made incredible changes in the world – It will never die,0.06000000000000001
+411,Fox,White House pushes back after NRA claims Trump said universal background checks off the table,-0.05
+412,NPR,"Sleater-Kinney Releases A Last Album, Ending An Era For the Indie Rock Trio",0.0
+413,NPR,How The Flying Shame Movement Got Off The Ground,0.0
+414,NPR,A Look At The ISIS Presence In Afghanistan ,-0.03333333333333333
+415,NPR,When Texas Legalized Hemp It Forced Some Counties To Change How They Prosecute Pot,-0.2916666666666667
+416,NPR,Syrian Government On The Verge Of Taking Back Important Town From Rebels In Civil War,0.13333333333333333
+417,NPR,Trump Administration Faces Class Action Lawsuit Alleging Health Care Failures By ICE,-0.052727272727272734
+418,NPR,How The Trump Administration's Sanctions Are Affecting Iranians,0.2
+419,NPR,Democratic Presidential Candidate Andrew Yang On His Universal Basic Income Plan,0.0
+420,NPR,Why Sea Level Rise Varies Across The World,0.16666666666666666
+421,NPR,Secretary Of State Mike Pompeo Tries To Rally U.N. Security Council To Counter Iran,0.17857142857142858
+422,NPR,'A Good Provider' Argues Migration Can Be Salvation,0.2556818181818182
+423,NPR,"Italy's Prime Minister Giuseppe Conte Resigns, Ending His Populist Coalition",0.0
+424,NPR,Twitter And Facebook Shut Down Fake Propaganda Accounts Run By Chinese Government,-0.1951388888888889
+425,NPR,Study Shows Red Flag Laws Might Help Prevent Violence,0.03409090909090909
+426,NPR,Internationally Maintained Radiation Monitors Go Offline Following Russian Explosion,0.0
+427,CNN,The President loves to say shocking things. His attempt to purchase a country from Denmark is no different.,0.0
+428,CNN,"Trump refers to another woman as 'nasty,' this time the Danish PM",-0.5
+429,CNN,Opinion: Why Trump keeps calling women 'nasty',-1.0
+430,CNN,Trump: You don't talk to the United States that way,-0.75
+431,CNN,Former US ambassador to Denmark says Trump canceling trip 'is just not the way you treat an ally',0.0
+432,CNN,Here's what it could cost for America to buy Greenland ,0.125
+433,CNN,Fact check: Trump made 84 false claims last week,0.07272727272727272
+434,CNN,Former military records technician accused of bilking millions from US soldiers,-0.03333333333333333
+435,CNN,President Trump: I am the chosen one,0.0
+436,CNN,"Analysis: Yes, Donald Trump really believes he is 'the chosen one'",0.0
+437,CNN,Buttigieg: Trump was reminded who's in charge after NRA call,0.0
+438,CNN,Opinion: The Supreme Court has an immigration disaster on its hands ,-0.175
+439,CNN,CNN's Kate Bolduan shuts down panelist over background checks,0.08333333333333333
+440,CNN,2 US service members killed in Afghanistan,-0.04
+441,CNN,Man killed by his own captive lions,0.13333333333333333
+442,CNN,Fidel Castro's crocodile bites man at party ,-0.3
+443,CNN,Property owners in Denver neighborhood vote to keep its controversial name,0.0
+444,CNN,Parkland father slams Trump on guns,0.0
+445,CNN,Father of 9-year-old mauled to death by pit bulls argued with dogs' owner last week,0.4
+446,CNN,"Police went to help a man. They found an arsenal of weapons, prosecutors say",-0.11272727272727275
+447,CNN,See moment engine failure forces a plane into ocean,-0.11805555555555555
+448,CNN,"McKinley Fire threatens more than 1,000 structures as wildfires rage in a dozen states",0.21428571428571427
+449,CNN,"Brazil's Amazon rainforest is burning at a record rate, research center says",-1.0
+450,CNN,A town opened a 1969 time capsule and revealed...nothing,
+451,CNN,Liam Hemsworth files for divorce from Miley Cyrus,
+452,CNN,Mexican court says cocaine use is legal for 2 people,
+453,CNN,World Cup champion nails 55-yard field goal at Eagles practice,1.0
+454,CNN,Woman sentenced in meat cleaver killing,
+455,CNN,'Bachelor In Paradise' contestant Demi Burnett first to explore same-sex relationship on franchise,
+456,CNN,Charging rhino gets within feet of tourists,0.0
+457,CNN,Soap opera star dies at 41,0.13636363636363635
+458,CNN,Kirsten Dunst discovered it's harder to make TV than movies with new Showtime series,0.19464285714285715
+459,CNN,Can Ryan Reynolds save the Spider-Man deal?,0.0
+460,CNN,Fans fear for Spider-Man's future after Sony and Marvel fail to reach rights agreement,0.0
+461,CNN,New cast of season 28 revealed,0.0
+462,CNN,See the Sean Spicer reveal,0.0
+463,CNN,'DWTS' host doesn't sound thrilled about the cast,0.36818181818181817
+464,CNN,Analysis: How Sean Spicer won (and we all lost),0.15
+465,CNN,Florida officials are investigating why panthers are stumbling,0.4
+466,CNN,Hoda Kotb announces her return to 'Today',0.0
+467,CNN,How scientists could save coral from brink of extinction,0.4621212121212121
+468,CNN,Fugitive Chinese billionaire's skyscraper sold online by Beijing court -- at a discount,-0.09999999999999999
+469,CNN,The winners and losers of the retail apocalypse,0.09583333333333334
+470,CNN,Why you should be interviewing even if you aren't looking for a new job,0.5
+471,CNN,Is a recession coming? Here's how to tell,0.05357142857142857
+472,CNN,Biden's lead confirms: 2020 is battle for America's soul ,-0.15
+473,CNN,The partisan rift over college will haunt us,0.10516414141414142
+474,CNN,How new FAA chief needs to fix flying's misery,-0.015625
+475,CNN,Planned Parenthood forced into impossible choice,0.1910714285714286
+476,CNN,Ashley Graham's pregnancy photo tells critical truth,0.18
+477,CNN,The man who's the real brains behind Brexit,0.0
+478,CNN,China says it has detained a UK consulate employee ,0.0
+479,CNN,"Children in UK living in shipping containers, report finds",0.0
+480,CNN,A tiny kinkajou sneaked into a Florida home and attacked a man,0.0
+481,CNN,Phoenix police must now document each time they point their gun at someone,-0.016666666666666666
+482,CNN,A bear broke into a house and raided the fridge as terrified teens hid in the next room,-0.2041666666666667
+483,CNN,Pit bulls maul and kill a 9-year-old girl in Detroit,0.0
+484,Vox,Trump says his mileage rules make cars safer. His EPA was worried they will kill more people. ,0.050572418261562994
+485,Vox,A new Trump rule could hold migrant families indefinitely in detention,-0.03486824769433465
+486,Vox,Trump cancels his state visit to Denmark over Greenland,0.012757936507936512
+487,Vox,Julián Castro released an animal welfare plan. It’s good policy — and smart politics.,0.11740400032066699
+488,Vox,Trump’s fake tax cuts are back,0.05317046065986743
+489,Vox,Work is going global. American Factory’s directors explain how they captured its challenges.,0.13461610288935874
+490,Vox,What happens next in the legal cases involving Jeffrey Epstein,0.03542335115864525
+491,Vox,Trump and the fragile belonging of American Jews,0.0832668759811617
+492,Vox,America has half a million fewer jobs than we thought,-0.04834355459355457
+493,Vox,"Trump says American Jewish Democrats are disloyal, claims “king of Israel” title",0.08043117866981504
+494,Wall Street Journal,Afghanistan Talks Resuming at Crucial Stage,0.1476190476190476
+495,Wall Street Journal,Mexican Tomato Growers Reach Agreement to End U.S. Duties,0.0
+496,Wall Street Journal,"Fires Destroy Amazon Rainforest, Blanket Brazilian Cities in Smog",0.16666666666666666
+497,Wall Street Journal,China Threatens Sanctions Over Planned U.S. Sale of Jets to Taiwan,-0.1
+498,Wall Street Journal,Manufacturers Want to Quit China for Vietnam. They're Finding It Impossible.,0.12297979797979798
+499,Wall Street Journal,"In Northern Ireland, Young People Worry Bloody History Could Return After Brexit",0.0625
+500,Wall Street Journal,Retail Divide Widens as Shoppers Seek Value and Convenience,0.033333333333333326
+501,Wall Street Journal,Target Extends Growth Streak With Strong Sales and Profit,0.19999999999999998
+502,Wall Street Journal,"Lowe's Reports Higher Profit, Beating Estimates",0.375
+503,Wall Street Journal,Manufacturers Want to Quit China for Vietnam. They're Finding It Impossible.,0.12297979797979798
+504,Wall Street Journal,"Court Documents Tie Huawei to Iran, Syria, Sudan, Describe Banking Links",0.009090909090909087
+505,Wall Street Journal,Fed Officials Viewed July Rate Cut as 'Recalibration' of Policy,0.25
+506,Wall Street Journal,"Federal Deficits to Grow More Than Expected in Next Decade, CBO Says",0.06666666666666667
+507,Wall Street Journal,"History Will Remember the Trade War's Economic Impact, Not the Fed's",0.11666666666666665
+508,Wall Street Journal,"Capital-Gains Tax Change Would Drive Only Modest Boost, Economists Say",0.05
+509,Wall Street Journal,"In Reversal, Trump Says He Is No Longer Considering Tax Cuts",0.0
+510,Wall Street Journal,You Got a 'Free' Internet Speed Upgrade. Then Your Bill Went Up.,-0.1
+511,Wall Street Journal,Employers Try New Language to Lure Job Seekers,0.1607142857142857
+512,Wall Street Journal,Brace Yourself for Robocall's Evil Twin: Robotext,0.11409090909090909
+513,Wall Street Journal,"Trump, California Showdown on Fuel-Economy Rules Divides Auto Makers",-0.03101851851851853
+514,Wall Street Journal,Walmart Sues Tesla Over Solar Cells That Allegedly Sparked Fires,0.0
+515,Wall Street Journal,Gun Sellers Sneak Onto Facebook's Online Marketplace,0.0
+516,Drudge Report,TRUMP: 'I AM THE CHOSEN ONE'...,0.0375
+517,Drudge Report,President Weighs Options to Spur Economy...,0.03214285714285715
+518,Drudge Report,POLL: 69% would hold him responsible for any recession...,0.03214285714285715
+519,Drudge Report,Budget deal sends deficit soaring...,0.0375
+520,Drudge Report,Luxury Homebuilder's Woes Show Mounting Slowdown Fears...,0.0375
+521,Drudge Report,"Xi's choice: Destroy Trump, or weaken America...",0.0375
+522,Drudge Report,Germany for First Time Sells 30-Year Bonds With Negative Yields...,0.0375
+523,Drudge Report,FEDS: SET THERMOSTATS TO 82° WHILE YOU SLEEP!,0.08333333333333333
+524,Drudge Report,Blood test predicts whether you'll die -- in next 10 years!,0.125
+525,Drudge Report,"Small plane crashes into ocean -- then pilot, passenger snap selfies, laugh...",0.075
+526,Drudge Report,FALL PREVIEW: Weinstein Asks to Move Trial Out of NYC...,0.125
+527,Drudge Report,NO MORE MR ICE GUY: Trump calls Danish PM 'nasty' after she nixes Greenland sale...,-0.016666666666666663
+528,Drudge Report,Says Jews who vote Democrat show 'great disloyalty'...,0.04583333333333334
+529,Drudge Report,'King of Israel'...,0.04583333333333334
+530,Drudge Report,'Second coming of God'...,0.04583333333333334
+531,Drudge Report,Asbestos at the White House...,0.125
+532,Drudge Report,US deficit to exceed $1 trillion next year -- again...,0.125
+533,Drudge Report,NOT AGAIN! Mortgage Market Reopens to Risky Borrowers...,0.041666666666666664
+534,Drudge Report,"Once Asking $1 Billion, America's Priciest Listing Sells for $100,000!",0.03125
+535,Drudge Report,ABC 'BACHELOR' Airs First Same-Sex Romance...,0.25
+536,Drudge Report,Girl found bound and gagged on freeway; CHP says family was taking her to drug rehab...,0.125
+537,Drudge Report,"PORTLAND: Drug use, mental illness, homelessness rise; 'Do not feel safe'...",0.21666666666666667
+538,Drudge Report,Oscar Theft Case Suddenly Dropped By L.A. D.A...,0.125
+539,Drudge Report,Venezuela Crisis Pushes Women Into 'Forced Motherhood'...,-0.025000000000000022
+540,Drudge Report,Motorists harassing buses with migrant students in Idaho...,0.25
+541,Drudge Report,Epstein preyed on women in jail...,0.024999999999999998
+542,Drudge Report,Cellmate Told 'Price to Pay' if Talks...,0.024999999999999998
+543,Drudge Report,Vandalized robot may solve mystery of own attack...,0.2833333333333333
+544,Drudge Report,Surprise Second Trailer for Brad Pitt in 'AD ASTRA' Shows Gorgeous Visuals...,0.2375
+545,Drudge Report,Japan warns NKorea now has miniaturized nukes; 'Imminent threat'...,-0.027777777777777776
+546,Drudge Report,Leak fears as rivers turn black...,-0.020833333333333332
+547,Drudge Report,Special Forces across North Carolina secretively prep for war...,0.11904761904761905
+548,Drudge Report,Mexico legalizes cocaine. For 2 people...,0.0
+549,Drudge Report,NETFLIX Struggles to Come to Terms With Theater Chains Over 'IRISHMAN' Release...,0.0
+550,Drudge Report,DISNEY Streaming Push Adds Intrigue to Iger Succession Race...,0.0
+551,Drudge Report,Leader of large organic food scheme kills self...,0.10714285714285714
+552,Drudge Report,Husband of El Paso massacre victim has his SUV stolen on the day he buries her...,-0.037500000000000006
+553,Drudge Report,Trump critics eye primary race even if defeating him seems 'daunting'...,0.2
+554,Drudge Report,Spacewalking astronauts add parking spot to space station...,0.0
+555,Drudge Report,Putin says US missile test raises new threats to Russia...,0.06818181818181818
+556,Drudge Report,DUNHAM FINDS LIFE AFTER 'GIRLS' AND ANTONOFF...,0.09999999999999999
+557,Drudge Report,Better off in her own place...,0.11000000000000001
+558,Drudge Report,Fidel Castro's crocodile bites man at party...,0.0
+559,Drudge Report,U.S. military drone shot down over Yemen...,-0.0851851851851852
+560,Drudge Report,Blown Away: Wild wind tosses restaurant worker onto roof!,0.0625
+561,Drudge Report,"Beatings, murders, prisoners set on fire: Inside prison called 'gangland'...",0.0
+562,Drudge Report,Mystery of 'skeleton lake' where hundreds have died leaves archaeologists baffled...,0.0
+563,Drudge Report,"Priest Accused Of Stealing $100,000 From Church To Spend On Beach House, Men He Was Having Sex With...",0.0
+564,Drudge Report,LIONSGATE Drops 'BOMBSHELL' Trailer...,0.0
+565,Drudge Report,"Kidman, Robbie, Theron Take On FOXNEWS...",0.0
+566,Drudge Report,LIST: Highest-Paid Actors...,0.0
+567,Drudge Report,AMERICAN GULAG DEATH OF EPSTEIN: ASSANGE NEXT?,-0.05555555555555555
+568,Drudge Report,Foul play unlikely in death of NATIONAL ENQUIRER whistleblower...,-0.0625
+569,Drudge Report,Investigation of reporter's inquiries stokes ire...,0.0
+570,Drudge Report,STUDY: Fake News Can Create False Memories...,-0.09000000000000001
+571,Drudge Report,Socials vow to police 'truth'...,-0.09000000000000001
+572,Drudge Report,"FACEBOOK Finally Meets a Regulator With Bite, THE EU...",-0.09000000000000001
+573,Drudge Report,Mayor Pete's white crowd at event on Chicago's South Side reinforces struggles to draw black voters...,-0.03253968253968254
+574,Drudge Report,"Biden recalls MLK, Bobby Kennedy assassinations -- 'in the late 70s'...",-0.03253968253968254
+575,Drudge Report,'Free college' tough sell even in state with highest student debt...,-0.032539682539682535
+576,Drudge Report,Court to decide where West Virginia governor sleeps...,0.0
+577,Drudge Report,MAG: AM stations wanted to keep listeners engaged -- ended up remaking Republican Party...,0.0
+578,Drudge Report,Inside president's feud with Mooch...,0.0
+579,Drudge Report,Sean Spicer to Compete on 'DANCING WITH THE STARS'...,0.0
+580,Drudge Report,Host protests 'divisive' casting...,0.0
+581,Drudge Report,"Castration Goes Wrong, Amateur Surgeon Arrested...",-0.25
+582,Drudge Report,"In Brazil, sudden darkness befalls Sao Paulo, baffling thousands...",0.0
+583,Drudge Report,'Apocalypse!',0.0
+584,Drudge Report,Amazon rainforest burning at record rate...,0.0
+585,Drudge Report,3-legged bears wandering NC...,0.0
+586,Drudge Report,Revealed: Top 10 worst resorts for food poisoning...,-0.16666666666666666
+587,Drudge Report,"'I'm not even 30, and flying own jet' -- Silicon Beach elites take seat in cockpit...",0.3
+588,Drudge Report,'IT TWO' First Reactions: Biggest Disappointment Of Year...,-0.04375
+589,Drudge Report,Killer clown craze returns as masked man chases terrified family with knife...,-0.04375
+590,New York Times,"Deficit Will Reach $1 Trillion Next Year, Budget Office Predicts",0.06818181818181818
+591,New York Times,"Trump’s Economic Message: Everything Is Great, but We Need Huge Stimulus Now!",-0.3499999999999999
+592,New York Times,Fed Was Divided About Interest Rate Cut,0.2
+593,New York Times,Migrant Families Would Face Indefinite Detention Under New Trump Rule,-0.1125
+594,New York Times,The Flores Agreement Protected Migrant Children for Decades. New Regulations Aim to End It.,0.3
+595,New York Times,Trump Says Danish Prime Minister Was ‘Nasty’ in Rejecting Greenland Offer,0.041666666666666664
+596,New York Times,Trump Again Accuses American Jews of Disloyalty,0.13333333333333333
+597,New York Times,Their Mothers Chose Donor Sperm. The Doctors Used Their Own.,-0.6
+598,New York Times,Putting a Positive Spin on Oil Exploration in the Arctic Refuge,-0.18333333333333326
+599,New York Times,"A Sailing Lesson on the Hudson, Followed by Nature, History and Good Eats in Inwood",0.4
+600,New York Times,What American C.E.O.s Are Worried About,-0.15000000000000002
+601,New York Times,How to Tackle Tough Drop-Offs,0.20625
+602,New York Times,Jia Tolentino on Life With the Internet,0.0
+603,New York Times,"Trump, Greenland, Denmark. Is This Real Life?",0.0
+604,New York Times,C.E.O.s Should Fear a Recession. It Could Mean Revolution.,0.1
+605,New York Times,How an E-Bike Changed My Life,0.016666666666666663
+606,New York Times,A Heartbreaking Choice for Moms: Food or a Family’s Future,0.06818181818181818
+607,New York Times,Hong Kong Is Where Peaceniks and Radicals Unite,0.0
+608,New York Times,"Want to Prevent a Recession, Mr. Trump? Stop Hurting the Economy",-0.1
+609,New York Times,How the Palestinian-Israeli Peace Process Became a Farce,0.0
+610,New York Times,How Nationalism Can Destroy a Nation,0.025000000000000005
+611,New York Times,Julián Castro Is in the Next Debate. That’s a Big Deal.,-0.05
+612,New York Times,"She Beat Cancer. Now, She’s in Another Fight for Her Life.",0.0
+613,New York Times,My 60 Years of Disappointment With Fidel Castro,0.0
+614,New York Times,"Scorsese’s New Mob Epic, ‘The Irishman,’ Has Netflix and Theaters at Odds",0.05
+615,New York Times,How Many Triangles Are There? Here’s How to Solve the Puzzle,-0.09375
+616,New York Times,Welcome to the Promoconomy,0.0
+617,New York Times,2 Prominent Academics to Cut Ties to M.I.T. Media Lab Over Epstein Link,-0.2
+618,New York Times,Fires in Amazon Rain Forest Have Surged This Year,0.1
+619,New York Times,Five Killed in One Day of Shootings in New York City,-0.13333333333333336
+620,New York Times,Did the Avengers Just Lose Spider-Man? Fans Reel at Sony-Disney Split,0.0625
+621,New York Times,German Theme Park Shuts Swastika-Shaped Ride,0.0
+622,New York Times,"Louisiana Says ‘Oui’ to French, Amid Explosion in Dual-Language Schools",0.125
+623,New York Times,Parkland Shooting Survivors Release Ambitious Gun Control Plan,0.15416666666666665
+624,New York Times,Benin Awakens to the Threat of Terrorism After Safari Ends in a Nightmare,0.0
+625,New York Times,Cyclist Deaths in New York City: Accidents or Crimes?,-0.25
+626,New York Times,"70-Year-Old Man Wins 1,000-Kilometer Horse Race in Mongolia",-0.2833333333333334
+627,New York Times,"In Pittsburgh, a Bookstore Where ‘Freewheeling Curiosity’ Reigns",0.0
+628,New York Times,"Once Declared Passé, Foam Returns to the Restaurant Table",0.21212121212121213
+629,New York Times,Chloë Sevigny Will Make New York Smell Better,0.2715909090909091
+630,New York Times,It Was ‘Cool Central’: Bill T. Jones Leads a Trip Through His Archive,0.0
+631,New York Times,An Archaeological Puzzle on the Danube,0.1875
+632,New York Times,The Thick Gray Line: Forest Elephants Defend Against Climate Change,0.0
+633,New York Times,Exercise May Boost Mood for Women With Depression. Having a Coach May Help.,0.16
+634,New York Times,The Mystery of the Himalayas’ Skeleton Lake Just Got Weirder,0.06818181818181818
+635,New York Times,Trump Accuses Jewish Democrats of ‘Great Disloyalty’,0.0
+636,BBC,Merkel: Backstop alternative 'possible within 30 days',0.025
+637,BBC,Libby Squire death: Man arrested on suspicion of murder,-0.05
+638,BBC,HS2: Review to examine costs and benefits of rail project,0.0
+639,BBC,Titanic sub dive reveals parts are being lost to sea,0.06481481481481481
+640,BBC,Greenland: Trump criticises 'nasty' Denmark over cancelled visit,-0.5
+641,BBC,Ryanair loses court battle to block UK pilot strikes,0.25
+642,BBC,EU migration to UK 'underestimated' by ONS,0.0
+643,BBC,London bus attack: Four teenagers deny homophobic harassment,0.0
+644,BBC,Lucas Dobson: Body found in river is missing boy,-0.2
+645,BBC,Spike in wildfires in Brazil's Amazon rainforest,0.5
+646,BBC,"Boy, 12, falls to death from apartment in Spain",0.0
+647,BBC,Dwayne Johnson tops Forbes highest paid actors list again,0.0
+648,BBC,Ex-Bury FC director in handcuffs protest over club's future,0.0
+649,BBC,'I bought a house thanks to my bullet journal',0.0
+650,BBC,Does the future of farming exist beneath city streets?,0.0
+651,BBC,Amazon in row over plastic packaging,-0.20454545454545456
+652,BBC,Jay-Z NFL deal: Kaepernick lawyer calls rapper 'cold-blooded',0.08484848484848484
+653,BBC,G7 summit: Inside the climate activist training camp,0.6
+654,BBC,Wildcats litter: The new arrivals giving hope for the species' survival,0.1
+655,BBC,Former Farc rebels become eco-warriors to stop deforestation in the Amazon,-0.3
+656,BBC,Focus on Farming - Beehive Live,-0.007575757575757576
+657,BBC,The Matrix: How have other 'fourth' films faired?,0.5
+658,BBC,HS2: Scrapping high-speed rail project 'would be a disaster',0.35
+659,BBC,Prince Andrew's links to Jeffrey Epstein,-0.15
+660,BBC,The mystery photos of a 1957 gay wedding,0.0
+661,BBC,‘Men have always taken the glory': Why more women are becoming farmers,0.0
+662,BBC,The unbelievable hangover caused by Pure-O,-1.0
+663,BBC,The Cold War spy technology which we all use,0.45
+664,BBC,Brexit: What are EU countries doing to prepare for no deal?,-0.0625
+665,BBC,"England must 'capitalise' on Smith absence, says Root",-0.00625
+666,BBC,Te'o's England career over with Toulon move,0.25
+667,BBC,Major League Baseball: Cody Bellinger's trousers fall down during baseball slide,-0.27111111111111114
+668,BBC,Phil Parkinson: Bolton Wanderers manager resigns from League One club,0.0
+669,Breitbart,Report: Anthony Scaramucci Honored Don Jr. at Business Dinner Weeks Before Feud with President Trump,-0.025
+670,Breitbart,Anthony Scaramucci Goes on Media Blitz After Public Feud with Trump,0.25
+671,Breitbart,Flashback: Anthony Scaramucci's Wife Deidre Ball Hints at ‘Real Housewives' TV Gig,0.0
+672,Breitbart,Wikipedia Echoes Democrats with ICE ‘Concentration Camp’ Label,-0.05
+673,Breitbart,Migration Advocates Embrace Story of 'Breastfeeding Mom' Detained by ICE... and It's Almost Certainly False,-0.26666666666666666
+674,Breitbart,GOP Rep. Aderholt: 'Growing Sector' Within Democratic Party of Those Not in Support of Israel,0.0
+675,Breitbart,Yore: Methinks Ilhan Omar Doth Protest Too Much!,0.06666666666666667
+676,Breitbart,Ann Coulter: Why the New York Times Is Unreformable and Must Die,0.24545454545454545
+677,Breitbart,Planned Parenthood Still Receives over $500 Million in Taxpayer Funding Annually,-0.2
+678,Breitbart,Gov. Gavin Newsom's Remark on Homelessness Crisis in San Francisco Rated 'Pants on Fire',0.0
+679,Breitbart,Iran-Allied Houthis Shoot Down Second U.S. Drone Since June ,-0.051851851851851864
+680,Breitbart,Thousands Protest Gangster Beatings of Demonstrators in Hong Kong,-0.075
+681,Breitbart,Lawsuit: Tesla Solar Panels Caused Fires on Walmart Roofs,0.0
+682,Breitbart,YouTube Removing Robot Fighting Videos for 'Animal Cruelty',0.0
+683,Breitbart,Elizabeth Warren: 'Of Course' Hillary Clinton's 2016 Presidential Run Makes My 2020 Bid Easier,-0.5
+684,Breitbart,Sanders to Displace Homeless in Sacramento for Campaign Event,-0.1
+685,Breitbart,Monitor: Islamic State Expanding 'Global Presence in 2019' Post-Caliphate Fall,0.0
+686,Breitbart,India Weighing Preemptive Nuclear Strike In Response to Kashmir,-0.075
+687,Breitbart,"Russia, China: U.S. Stoking 'New Arms Race,' 'Escalating Military Tensions' with Missile Test ",-0.1
+688,Breitbart,Iran Sends Another Oil Tanker to Syria in Defiance of Sanctions,0.075
+689,Breitbart,Audit: U.S. May Still Be Funding Afghan 'Ghost' Soldiers,-0.5
+690,Breitbart,U.N. Official: 'Disastrous' Corruption by Aid Agencies 'Cannot Go Unpunished',0.0
+691,Breitbart,"Turkey: Erdogan Removes 3 Kurdish Mayors from Office, Alleging 'Terrorist Sympathies'",0.19999999999999998
+692,Breitbart,President Trump Cancels Denmark Trip Over Greenland Purchase,-0.0625
+693,Breitbart,"Amber Heard Declares 'Planned Parenthood Here for Good': 'My Body. My Choice. Not Yours, Trump'",0.35
+694,Breitbart,ABC Faces Boycott Threat for Casting Sean Spicer on 'Dancing with the Stars',0.6
+695,Breitbart,'Unplanned' Star Ashley Bratcher Launches Pro-Life Scholarship for Pregnant Women,0.16666666666666666
+696,Breitbart,Judd Apatow: 'Truly Shameful' Pelosi 'Not Seeking to Impeach' Trump,-0.3
+697,Breitbart,Camping Canceled at Phish Concert over Plague-Infected Dogs,0.25
+698,Breitbart,MS-13 Member Arrested After Crossing Border with Migrant Group,-0.25
+699,Breitbart,DHS Issues Regulation Closing the Flores Catch-and-Release Loophole,0.05
+700,Breitbart,"Bloomberg Journalist: Illegal Alien Stole Identity, 'Ruined My Financial Life'",-0.0625
+701,Breitbart,EXCLUSIVE VIDEO: Los Zetas Cartel Blames Mexican Border State Violence on Fake Rivals,0.159375
+702,Breitbart,WATCH: Migrants Fail to Scale New Border Wall Section,0.08409090909090909
+703,Breitbart,Republican Matt Rosendale Lowers Healthcare Costs for Montanans,0.0
+704,Breitbart,Rhode Island Ethics Commission Votes to Investigate Democrat Gov. Gina Raimondo over Complaint,-0.05
+705,Breitbart,Tucker Carlson Examines Sen. Mike Lee's Evolution on Google -- 'Maybe It's Every Bit as Corrupt as It Seems',0.0
+706,Breitbart,"Mitt Romney: Putin, Kim Deserve 'Censure,' Not 'Flattery'",0.0
+707,Breitbart,Cherokee Nation Tests 200-Year-Old Treaty with Government by Sending Delegate to Congress,0.25
+708,Breitbart,Far-Left Extremists Arrested Plotting Attack on Hotel at G7,-0.05
+709,Breitbart,Swedish Police Accidentally Blow up Own Building After Motorbike Bomb Discovery,0.2
+710,Breitbart,Australia Joins U.S.-Led Shipping Protection Mission in Strait of Hormuz,0.0
+711,Breitbart,Saudi Arabia Eases Travel Restrictions for Women,0.06818181818181818
+712,Breitbart,"Berlin Launches Huge People Trafficking Raids With 1,900 Officers",0.16666666666666666
+713,Breitbart,Two Underage Girls Raped At Swedish Summer Festival,0.25
+714,Breitbart,Spanish Naval Ship Dispatched to Pick Up Mediterranean Migrants,0.0
+715,Breitbart,Greta Thunberg's Team Taking Transatlantic Flights as She Sails in Solar Yacht,0.0
+716,Breitbart,Polls Inject New Life into the Bernie Sanders Campaign,0.35
+717,Breitbart,"Another Gaffe: Joe Biden Claims MLK, RFK Assassinated in the ‘Late ‘70s'",0.0
+718,Breitbart,Booker: Jill Biden's Voting Advice 'Kind of Frightening' - 'Biden Should Be Worried' About Polls,0.08333333333333333
+719,Daily Mail,Woman reveals how 70th birthday gift of a DNA testing kit unearthed shattering family secret,0.2
+720,Daily Mail,Meghan Markle visibly excited as she makes surprise appearance at a Smart Works charity photoshoot,0.29464285714285715
+721,Daily Mail,Amir Khan and wife Faryal Makhdoom reveal they are expecting their THIRD child,0.0
+722,Daily Mail,Man 25 arrested on suspicion of murdering Hull University student Libby Squire,0.0
+723,Daily Mail,"The 'radicalisation' and 'demands of some migrants' is a serious concern, warns UN official",0.3267857142857143
+724,Daily Mail,Danish PM 'disappointed and surprised' by Trump's cancellation of visit after 'absurd' Greenland bid,-0.35000000000000003
+725,Daily Mail,UK weather: Britain is set for its HOTTEST August Bank Holiday in history,0.0
+726,Daily Mail,Trump unloads on the Fed and 'fake news' over recession warnings,0.16666666666666666
+727,Daily Mail,Angela Merkel tells Boris Johnson Brexit deal to ditch backstop CAN be done 'in the next 30 days',0.0
+728,Daily Mail,Laid-back Bill and Hillary Clinton take causal stroll on beach in the Hamptons ,-0.1027777777777778
+729,Daily Mail,Jeffrey Epstein has been laid to rest besides his parents at a Jewish mausoleum in Florida,0.0
+730,Daily Mail,Students anxiously awaiting tomorrow's GCSE results express their emotions via hilarious memes ,-0.06666666666666667
+731,Daily Mail,Donald Trump says he plans to end 'ridiculous' birthright citizenship with an executive order,0.0
+732,Daily Mail,"Boy, six, is diagnosed with testicular cancer",0.0
+733,Daily Mail,Daughters are inspired to share pictures of their youthful mothers to Twitter,0.15000000000000002
+734,Daily Mail,Residents in Windsor demand their own council because they have 'little in common' with Maidenhead,0.25
+735,Daily Mail,Trump boasts Israeli Jews love him like 'the second coming of God' as he quotes conspiracy theorist,0.0
+736,Daily Mail,Boat 'carrying 11 migrants' is towed into Dover,0.0
+737,Daily Mail,Liam Hemsworth files for divorce from Miley Cyrus after seven months of marriage  ,0.0
+738,Daily Mail,Do you know how much meat is actually in your burger?,0.0
+739,Daily Mail,Calvin Klein model 'broke pelvis after crashing into tree on zip-line at billionaire's party',-0.1534090909090909
+740,Daily Mail,"Jeffrey Epstein sexually assaulted his rape victim, 18, while plainclothes deputies stood feet away",0.3181818181818182
+741,Daily Mail,Farmers and residents whose homes have been torn in two brand Boris Johnson's HS2 review a whitewash,0.0625
+742,Daily Mail,'Brown fat' guards against obesity by filtering out bad proteins,0.13636363636363635
+743,Daily Mail,"Sun-worshiper, 37, is refused a mortgage because he spends £300 a month buying illegal tanning drugs",-0.5
+744,Daily Mail,Hampshire Police launch appeal after seven-year-old Southampton fan was struck by gas canister,0.1
+745,Daily Mail,Julia Sawalha accuses sister Nadia 'destroying their family',0.08076923076923077
+746,Daily Mail,Leading Chinese official warns British MPs to 'tone down' statements about protests in Hong Kong,0.0
+747,Daily Mail,Police called to reports of a CROCODILE lurking in a British pond relieved to find it was a toy,-0.35
+748,Daily Mail,Incredible footage shows plane crash into the ocean before two survivors film their own rescue,-0.08333333333333333
+749,Daily Mail,Fashion student accuses Levi's of ripping off her ideas after they use a Handmail's Tale design,0.0
+750,Daily Mail,Sir Paul McCartney has lost a battle with council bosses to prune protected trees,0.225
+751,Daily Mail,Terrifying moment cable snaps on slingshot ride snaps as it prepares to launch thrill seekers,-0.5
+752,Daily Mail,Musician gathering nature sounds in isolated western Canada is fatally attacked by a grizzly bear ,-0.07500000000000001
+753,Daily Mail,Questions over whether Prince Andrew was on Jeffrey Epstein flights,-0.13333333333333333
+754,Daily Mail,Paragliding Cockapoo takes to the skies above Wales with owners and  is called Britain's bravest pet,0.0
+755,Daily Mail,Twitter goes wild over mystery dog-lover after man is spotted with six miniature Pomeranian,0.0
+756,Daily Mail,Pancreatic cancer disappeared in 70% of mice treated with cannabis compound,-0.5
+757,Daily Mail,Police hunt four youths who dropped rock from motorway bridge just missing driver's head,0.05
+758,Daily Mail,Marco Pierre White slams 'delusional' Jamie Oliver for blaming Brexit for failures,0.0
+759,Daily Mail,Policeman Ian Wells from Hornchurch Essex could be sacked for racist signs,-0.2
+760,Daily Mail,Men 'hit on' naked woman depicted in a 19th century painting after it's shared on Facebook,0.5
+761,Daily Mail,Report claims YouTube will soon ban targeted ads on kids content as site shuts down direct messaging,0.16666666666666666
+762,Daily Mail,"Family's holiday HELL after arriving for £4,000 week-long TUI break in Crete",-0.125
+763,Daily Mail,Horrified patients spot a SNAKE slithering down a corridor in an NHS hospital in Wales,0.0
+764,Daily Mail,A gang of thugs shoot a phone shop worker in Turkey because their numbers didn't work,-0.13333333333333333
+765,Daily Mail,EU closes ranks and isolates Boris Johnson as he flies into Berlin for crunch Brexit talks,-0.05
+766,Daily Mail,Harry Potter fans go wild as they claim Emma Watson is dating co-star and former 'crush' Tom Felton,0.0
+767,Daily Mail,Police shoot dead Daisy the cow after its escape from an abattoir in Carlisle,-0.09850427350427352
+768,Daily Mail,A little girl had her very own 350sqft Harry Potter themed fortress built in her back garden,0.4666666666666666
+769,Daily Mail,Newlyweds look on in horror as three-tier wedding cake topples on to the floor  ,-0.20000000000000004
+770,Daily Mail,Police confiscate dog after shocking video shows it being dragged down the road outside Moscow,-0.12361111111111113
+771,Daily Mail,Hilarious moment newlyweds and their guests are blasted with corn from a harvester,-0.6
+772,Daily Mail,GCSE pupils in England await exams results tomorrow after 'tougher' new 1-9 grading system,0.13636363636363635
+773,Daily Mail,Japan's bullet train opens door while travelling at 175mph,0.2333333333333333
+774,Daily Mail,A mysterious methane reservoir has been discovered under the ocean floor by scientists,0.0
+775,Daily Mail,New Zealand parliament speaker cradles a fellow MP's baby son,0.13636363636363635
+776,Daily Mail,Piers Morgan tells Jameela Jamil to 'grow up',-0.15000000000000002
+777,Daily Mail,Travellers invade Hackney public green,0.09999999999999999
+778,Daily Mail,Office for National Statistics downgrades 'not fully reliable' official immigration data,0.02777777777777778
+779,Daily Mail,Golfer Thorbjorn Olesen denies drunkenly groping a female flight attendant,0.0
+780,Daily Mail,Indian husband divorces his wife after she refuses a chewing gum he offered her ,0.2
+781,Daily Mail,"British Airways ADMITS it has delayed or misplaced 150,000 bags this year",-0.03333333333333333
+782,Daily Mail,"Boy, eight, takes his parents' car on 90mph autobahn joyride",-0.1
+783,Daily Mail,Proposal to build huts on seaside cliff in Dorset to protect from erosion 'will spoil this forever',0.1
+784,Daily Mail,Reading Festival early arrivals soak up the sunshine in crop tops and hot pants,0.3
+785,Daily Mail,influencer accused of taking away clothes from plus-size people,0.0
+786,Daily Mail,"The top 10 worst resorts for food poisoning, from Hurghada in Egypt to Riviera Maya in Mexico",0.3181818181818182
+787,Daily Mail,Stop sharing that Instagram hoax: Celebrities fuel viral post that claims site is changing its rules,0.25
+788,Daily Mail,Channel 4 reveals bizarre complaints including viewers who don't like Jamie Oliver's fingers,-1.0
+789,Daily Mail,German tightrope walker leaps off a waterfall and plummets 850 feet while attached to a bungee cord,0.1
+790,Daily Mail,Former Bury director Joy Hart CHAINS herself to the front of their stadium,0.0
+791,Daily Mail,Sister of PC Andrew Harper's 'killer' defends him online,0.0
+792,Daily Mail,"Devastated mother, 25, tells how the first funeral she ever attended was for her own baby",0.8
+793,Daily Mail,China will have 'one CCTV camera for every TWO PEOPLE by next year',-0.025
+794,Daily Mail,"A new, healthier butter? Scientists create spread made mostly of WATER",0.0
+795,Daily Mail,Doctor reveals why a workout can leave you feeling nauseous and anxious (and how to beat it) ,-0.027777777777777776
+796,Daily Mail,Mother meets the man whose life was saved by her late son's donor heart,0.0
+797,Daily Mail,"Scottish spending on public services is £1,600 HIGHER per person than the UK average",0.18333333333333335
+798,Daily Mail,Police officer suffers severe facial injuries as he tried to arrest a man,0.0
+799,Daily Mail,Police launch probe into the death of a married senior NHS official,0.5
+800,Daily Mail,Cristiano Ronaldo rape claims: Star says '2018 was the most difficult year on a personal level',0.0
+801,Daily Mail,Boris Johnson delivers a massive 17 point Tory surge in the polls,0.0
+802,Daily Mail,"Trump says Russia should rejoin G7, claims Putin was booted because he 'outsmarted' Obama",0.4666666666666666
+803,Daily Mail,"Shocked doctors remove nearly 2,000 gallstones from a 60-year-old woman's stomach",-0.05
+804,Daily Mail,Brothers who murdered sister in 'honour killing' over her sexual videos may walk free in Pakistan,0.0
+805,Daily Mail,Can YOU spot what's wrong with this bedroom snap?,0.5
+806,Daily Mail,Italian fashion designer Valentino Garavani lists palatial Tuscan villa for sale for £10m,0.0
+807,Daily Mail,Joe Sugg lands West End role of Ogie in Waitress,0.0
+808,Daily Mail,York Races day one: Revellers make a statment in flirty frocks and vibrant suits,0.625
+809,Daily Mail,Car dealer who killed a grandmother in a head-on 90mph crash as he drove to work 'like a nutter',-0.1
+810,Daily Mail,Prince Harry and Meghan Markle hire third nanny for baby Archie,0.36818181818181817
+811,Daily Mail,Vigilante group of soldiers and teachers unite to fight crime,0.0
+812,Daily Mail,Meghan Markle's favourite jewellery designer Missoma launches an advent calendar for £395,0.0
+813,Daily Mail,Instagrammer mixes celebrities so take our quiz to find out if YOU can work out who's who,0.6
+814,Daily Mail,North Korean uranium plant 'is leaking radioactive waste into a nearby river',-0.2
+815,Daily Mail,Student horrified after Boohoo top fails to cover her breast,-0.004464285714285712
+816,Daily Mail,"New study suggests we're happier after our children leave home, but not everyone agrees ",0.06249999999999999
+817,Daily Mail,Alzheimer's has been 'halted' in the laboratory,0.024999999999999994
+818,Daily Mail,Terminal cancer patient kills herself by jumping from Chinese hospital and lands on visitor,-0.018750000000000003
+819,Daily Mail,"Pictured: British woman, 20, who died in a crash in Italy",0.03333333333333333
+820,Daily Mail,Facebook releases the results of Republican-led investigation into its 'anti-conservative bias',0.0
+821,Daily Mail,"Boy, 13, is electrocuted as he plays on his phone while it's charging",-0.375
+822,Daily Mail,"Victoria Beckham's £1,500 PYJAMA set that's sending shoppers wild",0.0
+823,Daily Mail,"Drunken dog owner, 38, left her pet covered in cigarette burns",0.0
+824,Daily Mail,Shocking moment bull digs its horn into a car during 'bull run' festival near Barcelona,-0.11666666666666665
+825,Daily Mail,Jeffrey Epstein accuser says she was forced into a sham lesbian marriage with one of his recruiters,-0.053571428571428575
+826,Daily Mail,Pristine wall art and delicate clay pots are found inside an underground imperial tomb in China,0.15
+827,Daily Mail,Stunning photographs show cedar tree planted as sapling by Queen Mary in 1922,0.05
+828,Daily Mail,Government launches HS2 review to decide if it is 'go or no-go',0.0
+829,Daily Mail,Japan warns North Korea now has miniaturized nukes,-0.025
+830,Daily Mail,Philippines becomes the latest country to get its own space agency,0.0
+831,Daily Mail,Adorable one-year-old smashes her face into a birthday cake leaving her covered in bright pink icing,-0.09375
+832,Daily Mail,Shocking moment a seagull swallows a SHARK while strutting along a New Jersey beach,-0.16489898989898993
+833,Daily Mail,People who post lots of selfies are viewed by others as 'self-absorbed and less successful',-0.16666666666666666
+834,Daily Mail,Greece refuses to 'facilitate' Iranian tanker's 'course to Syria',-0.4333333333333333
+835,Daily Mail,Heartwarming moment five elephants are rescued after getting stuck in a disused goldmine in Malaysia,0.2
+836,Daily Mail,Jeff Bezos parties with Katy Perry and Lil Nas X at Amazon concert,0.016666666666666666
+837,Daily Mail,Retired lecturer is convicted of animal cruelty after leaving cockapoo in car,0.0
+838,Daily Mail,"Most large earthquakes start with a host of smaller 'foreshocks', scientists confirm",0.0
+839,Daily Mail,"Woman, 32, flew to Ibiza on a drunken whim",0.0
+840,Daily Mail,Tory Chairman James Cleverly involved in M11 motorway smash,-0.04375000000000001
+841,Daily Mail,Mother is forced to sleep on daughter's sofa after builder bungled her renovation,0.0
+842,Daily Mail,"Thug, 32, beat up pregnant girlfriend in rage",0.5
+843,Daily Mail,Labial filler to improve sex life: Mother shares her experience,0.0
+844,Daily Mail,"Fears grow for missing teenager, 14, with distinctive birth mark on her face",0.25
+845,Daily Mail,Steve Booth dies from hidden heart disease on day he was due to pick up engagement ring,0.0
+846,Daily Mail,Romanian double rapist carried out a brutal sex attack months after legally coming to UK,0.2
+847,Daily Mail,A Brooklyn restaurant is serving a $100 24k lobster roll,0.19107142857142856
+848,Daily Mail,"Pet lovers can now CLONE their cat for £29,000 from a Chinese biotech firm",0.0
+849,Daily Mail,Jessica Mulroney lashes out at 'racist' Meghan Markle critics,0.0
+850,Daily Mail,Was my great-grandfather hanged on Churchill's orders for a murder he didn't commit?,0.0
+851,Daily Mail,"Woman is kidnapped, drugged and gang-raped by seven men for ten days in latest Indian sex attack",0.0
+852,Daily Mail,Strictly Come Dancing class of 2019 meet the professional dancers for the first time,0.175
+853,Daily Mail,David Attenborough blames EU's 'irritating' rules for Brexit vote,-0.125
+854,Daily Mail,Wetherspoon boss vows to slash beer prices if Britain leaves the EU by the end of October,0.25
+855,Daily Mail,"Dementia patients have no option but to go to A&E, asks DR MAX PEMBERTON ",-0.05636363636363637
+856,Daily Mail,Viewers left 'disturbed' by child trained like a dog using a 'clicker' on new Channel 4 show,0.0
+857,Daily Mail,'Trailblazing' treatment that prevents bleeds in haemophiliacs will be available on NHS England,0.10312500000000001
+858,Daily Mail,15 skeletal Great Danes are 'adopted' by the king of Thailand after rescue,0.0
+859,Daily Mail,Runaway bull clatters into a woman carrying shopping bags in South Africa,0.0
+860,Daily Mail,"City-dwellers who live within 1,000ft of a park or play area are happier",-0.05
+861,Daily Mail,Woman reveals joy as husband who couldn't remember their marriage proposes,0.25
+862,Daily Mail,Victims of Equitable Life are asked to vote on compensation offer,0.5
+863,Daily Mail,Nigel Farage warns general election pact with the Conservative Party has 'hit the buffers',0.0
+864,Daily Mail,Mum branded childish for removing teen daughter's bedroom door as 'punishment' for hacking her Insta,0.03333333333333333
+865,Daily Mail,UK shale gas reserves could be up to 80% lower than previously thought ,0.0
+866,Daily Mail,Viewers of Good Morning Britain furious over debate on whether single women having IVF on the NHS ,0.35714285714285715
+867,Daily Mail,Husband whose life was saved by US cancer treatment is to be a father,0.125
+868,Daily Mail,Tracey Cox asks can relationships REALLY survive cheating,0.05
+869,Fox,Chick-fil-A helps return lost toy to its 'best friend',-0.6
+870,Fox,YouTube pressured to kick Chinese state media ads off platform over misinformation,-0.07777777777777779
+871,Fox,"Gov. Gavin Newsom is 'responsible' for California's homeless crisis, says former state congressman",0.05
+872,Fox,"Biden jabs at Sanders, Warren over 'Medicare-for-all'",0.25
+873,Fox,"Romney takes veiled shot at Trump over 'flattery' of Russian, North Korean leaders",0.0
+874,Fox,"Booker insists 2020 nominee must be more than a ‘safe bet,’ in jab at Biden",0.3333333333333333
+875,Fox,De Blasio mocked after video malfunction at labor forum: Voice 'higher than his poll numbers',0.1787878787878788
+876,Fox,Jane Seymour reunites with ‘Dr. Quinn’ love interest Joe Lando: ‘Summers with Sully’,0.7
+877,Fox,Baby born by C-section after parents involved in 'scary' car accident while heading to hospital,-0.07500000000000001
+878,Fox,"On the border, officials see dividends from Trump’s deal with Mexico",-0.125
